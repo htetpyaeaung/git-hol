@@ -1,0 +1,3 @@
+This is a new feature named 'example'. 
+
+The purpose of this new feature is to serve multi-purpose to multi-people and multi-culture. 
